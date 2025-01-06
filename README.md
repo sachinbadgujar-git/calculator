@@ -11,7 +11,7 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. This p
 
 ## Demo
 
-You can try the live demo [here](#). (Replace `#` with the URL to your hosted project, if applicable.)
+https://calci-proj-templet1.netlify.app/
 
 
 ## Technologies Used
@@ -24,7 +24,7 @@ You can try the live demo [here](#). (Replace `#` with the URL to your hosted pr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calculator.git
+  https://github.com/sachinbadgujar-git/calculator.git
    ```
 2. Navigate to the project folder:
    ```bash
